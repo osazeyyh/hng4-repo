@@ -1,0 +1,93 @@
+
+.logo{
+  position: absolute;
+  width: 99px;
+  height: 99px;
+  left: 8px;
+  top: 37px;
+
+}
+body{
+  position: relative;
+    background-image: url("architecture-black-and-white-black-and-white-967354.jpg");
+    height: 100%; 
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+} 
+
+.header{
+   position: absolute;
+   margin-left: -10px;
+   margin-top: 189px;
+   height: fit-content;
+   width: fit-content;
+   background-color: #DCE8F7; 
+   padding: 33px 8px; 
+}
+.header>h1{
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: normal;
+  line-height: normal;
+  font-size: 50px;
+  text-align: center;
+  margin: 0px;
+}
+
+.signup{
+  float: right;
+  background-color: #DCE8F7;
+  text-align: center;
+  margin-right: -10px;
+  margin-top: 512px;
+  margin-bottom: 156px;
+  padding: 68px 133px;
+  
+
+}
+
+#one{
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  font-size: 24px;
+  text-align: center;
+  margin-bottom: 0px;
+
+}
+
+#time{
+  font-family: Orbitron;
+  font-style: normal;
+  font-weight: normal;
+  line-height: normal;
+  font-size: 70px;
+  text-align: center;
+  margin-top: 18px;
+  margin-bottom: 18px;
+}
+
+#wait{
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  font-size: 24px;
+  text-align: center;
+  margin-top: 0px;
+  margin-bottom: 21px;
+}
+
+#today{
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  font-size: 24px;
+  text-align: center;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
